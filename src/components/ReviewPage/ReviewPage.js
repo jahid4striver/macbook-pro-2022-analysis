@@ -7,7 +7,7 @@ const ReviewPage = ({review}) => {
             <div className='shadow p-3'>
             <img className='rounded-circle' src={img} alt="" width="150px"/>
             <h4>{name}</h4>
-            <p>{comment}</p>
+            <p>{comment.lenth===150 ? comment: comment.slice(0,150)}...</p>
             <p>Rating <small>{rating}</small></p>
             </div>
         </div>

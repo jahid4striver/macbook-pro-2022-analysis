@@ -2,42 +2,42 @@
     {
       "id": 1,
       "name": "Jahid Hassan",
-      "comment": "MacBook Pro 2022 Is My Favourite",
+      "comment": "This is the first time I will be using an Apple computer. And I am amazed at the beautiful and sleek look of the product. I also love the Touch Bar. Definitely a good buy.",
       "rating":4.9,
       "img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Abdul Kuddus",
-      "comment": "It is A Very Good Laptop",
+      "comment": "I bought this MacBook Pro because I am working on my MBA and I wanted a new MacBook Pro with great battery life and excellent quality fit and finish. I appreciate the fine things in life, and along with my other Apple products I was not disappointed.",
       "rating":4.5,
       "img": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80"
     },
     {
-      "id": 1,
+      "id": 3,
       "name": "Abdur Rahim",
-      "comment": "Iam Crash On It",
+      "comment": "The Retina display is absolutely stunning and easy on the eyes. Light, sleek design. Easy to connect all your devices and perfect for on the go use, as I bought it for college.",
       "rating":4.8,
-      "img": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFufGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
     {
-      "id": 1,
+      "id": 4,
       "name": "Abdur Rahman",
-      "comment": "What is This",
+      "comment": "The good thing about this product was that it was easy to assemble and worked without and glitches It is an apple can not go wrong",
       "rating":4.3,
       "img": "https://www.publicdomainpictures.net/pictures/200000/nahled/man-with-glasses.jpg"
     },
     {
-      "id": 1,
+      "id": 5,
       "name": "Abdur Razzak",
-      "comment": "Will Write Letter",
+      "comment": "I've used the laptop for a week and I am blown away. Performance, screen, battery life, and build quality are all exceptional. If you have never owned a MacBook and you're looking to jump in, now is the perfect time at $1,199 or $1,399 with the discount. This is the best value MacBook for the performance you're getting in a long time",
       "rating":4.7,
       "img": "https://st.focusedcollection.com/14026668/i/650/focused_177762388-stock-photo-portrait-smiling-young-man-wearing.jpg"
     },
     {
-      "id": 1,
+      "id": 6,
       "name": "Abdul Mannan",
-      "comment": "Ektu Pore",
+      "comment": "I bought the new 2019 macbook pro with touch bar. I have a windows 10 laptop with much higher specs but this mac never feels slow and weak in terms of performance as compared to it. Its a solid performer for everyday usage. you will never be disappointed in playing back any type of media, little video editing and some games and office work. solid machine.",
       "rating":4.6,
       "img": "https://st3.depositphotos.com/1715570/18412/i/1600/depositphotos_184123756-stock-photo-close-portrait-handsome-young-man.jpg"
     }
