@@ -2,42 +2,42 @@
     {
       "id": 1,
       "name": "Jahid Hassan",
-      "review": "MacBook Pro 2022 Is My Favourite",
+      "comment": "MacBook Pro 2022 Is My Favourite",
       "rating":4.9,
       "img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
     {
       "id": 1,
       "name": "Abdul Kuddus",
-      "review": "It is A Very Good Laptop",
+      "comment": "It is A Very Good Laptop",
       "rating":4.5,
       "img": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80"
     },
     {
       "id": 1,
       "name": "Abdur Rahim",
-      "review": "Iam Crash On It",
+      "comment": "Iam Crash On It",
       "rating":4.8,
       "img": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFufGVufDB8fDB8fA%3D%3D&w=1000&q=80"
     },
     {
       "id": 1,
       "name": "Abdur Rahman",
-      "review": "What is This",
+      "comment": "What is This",
       "rating":4.3,
       "img": "https://www.publicdomainpictures.net/pictures/200000/nahled/man-with-glasses.jpg"
     },
     {
       "id": 1,
       "name": "Abdur Razzak",
-      "review": "Will Write Letter",
+      "comment": "Will Write Letter",
       "rating":4.7,
       "img": "https://st.focusedcollection.com/14026668/i/650/focused_177762388-stock-photo-portrait-smiling-young-man-wearing.jpg"
     },
     {
       "id": 1,
       "name": "Abdul Mannan",
-      "review": "Ektu Pore",
+      "comment": "Ektu Pore",
       "rating":4.6,
       "img": "https://st3.depositphotos.com/1715570/18412/i/1600/depositphotos_184123756-stock-photo-close-portrait-handsome-young-man.jpg"
     }
